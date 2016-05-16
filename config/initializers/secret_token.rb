@@ -1,0 +1,1 @@
+ElasticTest::Application.config.secret_token = ‘8cfd90b2b77355fdb2bb7206a5c6df908e5c9a52e4f2962a85beb548163ef886b7a9e41e28035a8c59069505930f4dc319fef77c207ee2240cc88ecdb3e52101'
